@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python and SQL/Oracle
 - 💞️ I’m looking to collaborate on LinkedIn
 - 📫 You can call me at 314-814-0745 or email me at meriiskali2@gmail.com
+- LinkedIn Link: https://www.linkedin.com/in/meri-i-91442b225/
 
 <!---
 iskaligithub/iskaligithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
